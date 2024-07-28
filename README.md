@@ -14,7 +14,7 @@ HTML Playground is an interactive web-based tool designed to help users experime
 
 To start using HTML Playground, simply visit the page:
 
-[Visit HTML Playground](https://quicksilver-lab.github.io/HTML Playground)
+[Visit HTML Playground](https://quicksilver-lab.github.io/HTML-Playground)
 
 Start coding by entering your HTML, CSS, and JavaScript in the provided editors, and see the real-time preview as you work. Share your creations with friends or colleagues by sharing the page link.
 
